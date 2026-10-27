@@ -12,10 +12,10 @@ Through my Future Interns online internship, I worked on three projects: a denta
 ### 🛠️ Skills & Technologies
 
 - **Programming:** JavaScript, Python (fundamentals)
-- **Web Development:** HTML, CSS, React.js (fundamentals)
-- **Design:** Figma, UI/UX Design, Responsive Web Design
-- **Tools:** Git, GitHub, UiPath training
-- **Currently Learning:** Backend development, REST APIs, SQL, databases, and software testing
+- **Frontend Development:** HTML5, CSS3, React.js (fundamentals), Responsive Web Design
+- **UI/UX Design:** Figma, Wireframing, UI Design, Responsive Design
+- **Tools:** Git, GitHub, UiPath
+- **Currently Learning:** Backend Development, REST APIs, SQL, Database Fundamentals, Software Testing
 
 ### 🚀 Featured Projects
 
