@@ -23,7 +23,7 @@ Through my Future Interns online internship, I worked on three projects: a denta
 
 A dental clinic website redesign focused on responsive layouts, usability, and appointment enquiries.
 
-[View Project](https://github.com/Rupam1202/FUTURE_UIUX_01)
+[View Project](https://github.com/Rupam1202/smilecraft-dental-website)
 
 **2. NH Square — Salon Booking Interface**
 
