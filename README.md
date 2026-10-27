@@ -29,7 +29,7 @@ A dental clinic website redesign focused on responsive layouts, usability, and a
 
 A salon booking interface designed to organize service selection and appointment scheduling.
 
-[View Project](https://github.com/Rupam1202/FUTURE_UX_02)
+[View Project](https://github.com/Rupam1202/nh-square-salon-booking)
 
 **3. Digital Marketing Agency — CRM Dashboard**
 
