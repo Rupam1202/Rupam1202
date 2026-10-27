@@ -35,7 +35,7 @@ A salon booking interface designed to organize service selection and appointment
 
 A dashboard interface designed to present business and customer-related information clearly.
 
-[View Project](https://github.com/Rupam1202/FUTURE_UX_03)
+[View Project](https://github.com/Rupam1202/nexus-crm-agency-dashboard)
 
 ### 🎓 Education
 
