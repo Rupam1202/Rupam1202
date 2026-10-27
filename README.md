@@ -23,13 +23,13 @@ Through my Future Interns online internship, I worked on three projects: a denta
 
 A dental clinic website redesign focused on responsive layouts, usability, and appointment enquiries.
 
-[View Project](https://github.com/Rupam1202/smilecraft-dental-website)
+[View Project](https://github.com/Rupam1202/smilecraft-dental-website) · [Live Demo](https://rupam1202.github.io/smilecraft-dental-website/)
 
 **2. NH Square — Salon Booking Interface**
 
 A salon booking interface designed to organize service selection and appointment scheduling.
 
-[View Project](https://github.com/Rupam1202/nh-square-salon-booking)
+[View Project](https://github.com/Rupam1202/nh-square-salon-booking) · [Live Demo](https://rupam1202.github.io/nh-square-salon-booking/)
 
 **3. Nexus CRM — Digital Agency Dashboard UI**
 
