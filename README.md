@@ -31,11 +31,11 @@ A salon booking interface designed to organize service selection and appointment
 
 [View Project](https://github.com/Rupam1202/nh-square-salon-booking)
 
-**3. Digital Marketing Agency — CRM Dashboard**
+**3. Nexus CRM — Digital Agency Dashboard UI**
 
-A dashboard interface designed to present business and customer-related information clearly.
+An interactive CRM dashboard designed for a digital marketing agency, featuring lead pipeline management, client tracking, task follow-ups, and analytics.
 
-[View Project](https://github.com/Rupam1202/nexus-crm-agency-dashboard)
+[View Project](https://github.com/Rupam1202/nexus-crm-agency-dashboard) · [Live Demo](https://rupam1202.github.io/nexus-crm-agency-dashboard/)
 
 ### 🎓 Education
 
